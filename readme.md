@@ -14,6 +14,7 @@ Complete the following steps on the categorical columns in the dataset:
     - `ZIP` - we are including state already
 - Identify columns that over 85% missing values if there are any
 - Remove those columns from the dataframe
+- Perform all of the cleaning processes from the Lesson.
 - Reduce the number of categories in the column `GENDER`. The column should only have either "M" for males, "F" for females, and "other" for all the rest
     - Note that there are a few null values in the column. We will first replace those null values using the code below:
 
