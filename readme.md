@@ -2,7 +2,7 @@
 
 # Lab | Revisiting Machine Learning Case Study
 
-- In this lab, you will use `learningSet.csv` file which you already have cloned in today's activities. 
+- In this lab, you will use `learningSet.csv` file which you already have cloned in today's activities. The full process for the week is shown in the PDF file.
 
 ### Instructions
 
